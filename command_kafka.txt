@@ -1,4 +1,3 @@
-ssh -i "kafka-ec2.pem" ec2-user@ec2-54-160-228-142.compute-1.amazonaws.com
 
 wget https://downloads.apache.org/kafka/3.6.0/kafka_2.12-3.6.0.tgz
 tar -xvf kafka_2.12-3.6.0.tgz
